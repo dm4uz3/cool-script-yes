@@ -1,2 +1,2 @@
 # script-collection
-collection of scripts 
+collection of super cool scripts 
